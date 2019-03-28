@@ -33,7 +33,7 @@ public class Variables {
 
 		System.out.println("\n" + "\"My husband is my friend\"");
 		System.out.println("\n" + "backslash: \\");
-		System.out.println ("Save my files in c:\toy directory");
+		System.out.println ("Save my files in c:\\toy directory");
 
 	}
 
@@ -203,12 +203,12 @@ public class Variables {
 	public static void main(String[] args) {
 
 		// MyFirstMethod();
-		// StringMethod();
+		StringMethod();
 		// ScapeCharacter ();
 		// Integer();
 		// FloatDoubleLong ();
 		//BooleanInJava();
-		FunnyScapeCharacter ();
+		//FunnyScapeCharacter ();
 
 	}
 
