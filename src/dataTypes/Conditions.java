@@ -31,15 +31,6 @@ public class Conditions {
 
 	public static void IfExemple3() {
 
-		int x = 10;
-		int cond;
-		cond = (x > 0) ? 1 : 0;
-
-		System.out.println(cond);
-	}
-
-	public static void IfExemple4() {
-
 		int a = 100;
 
 		if (a == 100) {
@@ -58,7 +49,7 @@ public class Conditions {
 		}
 	}
 
-	public static void IfExemple5() {
+	public static void IfExemple4() {
 
 		// If statement for User Input
 
@@ -93,7 +84,6 @@ public class Conditions {
 
 	}
 
-	
 	public static void StudentResult() {
 		Scanner scan = new Scanner(System.in);
 
@@ -153,10 +143,9 @@ public class Conditions {
 
 		// IfExemple1 ();
 		// IfExemple2 ();
-		IfExemple3 ();
+		// IfExemple3 ();
 		// IfExemple4 ();
-		// IfExemple5 ();
-		//StudentResult();
+		// StudentResult();
 
 	}
 
