@@ -192,7 +192,6 @@ public class Array {
 	public static void ArrayStringInput() {
 
 		Scanner scan = new Scanner(System.in);
-
 		String[] name = new String[3];
 
 		for (int i = 0; i < name.length; i++) {

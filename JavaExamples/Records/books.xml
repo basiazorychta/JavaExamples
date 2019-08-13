@@ -1,0 +1,51 @@
+<books>
+	<book>
+		<category> children </category>
+		<title> Harry Potter </title>
+		<author>J K. Rowling</author>
+		<price> 29.90 </price>
+	</book>
+	<book>
+		<category> web </category>
+		<title> Object Oriented Programming with Kotlin </title>
+		<author>Abid Khan</author>
+		<author>Igor Kucherenko</author>
+		<price> 39.90 </price>
+	</book>
+	<book>
+		<category> cooking </category>
+		<title> 30 Minute Meals </title>
+		<author>Jamie Oliver</author>
+		<price> 19.90 </price>
+	</book>
+	<book>
+		<category> cooking </category>
+		<title> Jamie at home </title>
+		<author>Jamie Olive</author>
+		<price> 25.00 </price>
+	</book>
+	<book>
+		<category> crime </category>
+		<title> The Ice Princess </title>
+		<author>Camila Läckberg</author>
+		<price> 39.00 </price>
+	</book>
+	<book>
+		<category> crime </category>
+		<title> The Hidden Child </title>
+		<author>Camila Läckberg</author>
+		<price> 39.00 </price>
+	</book>
+	<book>
+		<category> children </category>
+		<title> Pipi Longstocking </title>
+		<author>Astrid Lindgren</author>
+		<price> 30.00 </price>
+	</book>
+	<book>
+		<category> web </category>
+		<title> Java A Beginner's Guide </title>
+		<author>Herbert Schildt</author>
+		<price> 15.00 </price>
+	</book>
+</books>

@@ -203,12 +203,12 @@ public class Variables {
 	public static void main(String[] args) {
 
 		// MyFirstMethod();
-		StringMethod();
+		// StringMethod();
 		// ScapeCharacter ();
 		// Integer();
 		// FloatDoubleLong ();
-		//BooleanInJava();
-		//FunnyScapeCharacter ();
+		BooleanInJava();
+		// FunnyScapeCharacter ();
 
 	}
 

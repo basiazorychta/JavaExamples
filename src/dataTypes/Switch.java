@@ -137,7 +137,7 @@ public class Switch {
 
 		// SwitchExemple(3);
 		// IsVowel ('i');
-		// System.out.println (IsVowel2 ('k'));
+		System.out.println (IsVowel2 ('k'));
 		Calculator('%', 19.0, 9.0);
 
 	}

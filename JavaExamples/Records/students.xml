@@ -1,0 +1,34 @@
+<students>
+  <student>
+    <id>S15656</id>
+    <firstname>Peter</firstname>
+    <surname>White</surname>
+    <phonenumber>0700101010</phonenumber>
+    <email>peter.white@gmail.com</email>
+    <address>Stockholm</address>
+  </student>
+  <student>
+    <id>S15657</id>
+    <firstname>Emma</firstname>
+    <surname>Black</surname>
+    <phonenumber>0700202020</phonenumber>
+    <email>emma.black@gmail.com</email>
+    <address>Dubai</address>
+  </student>
+  <student>
+    <id>S15658</id>
+    <firstname>Åsa</firstname>
+    <surname>Red</surname>
+    <phonenumber>0700101011</phonenumber>
+    <email>asa.red@gmail.com</email>
+    <address>Islamabad</address>
+  </student>
+  <student>
+    <id>S15659</id>
+    <firstname>Stina</firstname>
+    <surname>Green</surname>
+    <phonenumber>0700101222</phonenumber>
+    <email>stina.green@gmail.com</email>
+    <address>Malmo</address>
+  </student>
+</students>

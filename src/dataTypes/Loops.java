@@ -90,12 +90,12 @@ public class Loops {
 	
 	public static void main(String[] args) {
 		// ForLoop1();
-		// WhileExemple1();
-		// WhileExemple2 ();
+		WhileExemple1();
+		WhileExemple2 ();
 		// DoWhile ();
 		// FactorialExemple ();
 		//ForLoop2();
-		Multiply();
+		// Multiply();
 
 	}
 

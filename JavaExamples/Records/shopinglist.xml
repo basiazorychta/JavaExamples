@@ -1,0 +1,87 @@
+<shopinglist>
+	<vegetables>
+		<name> tomatoes </name>
+		<amount>1kg </amount>
+		<price>15.0</price>
+	</vegetables>
+	<vegetables>
+		<name> cucamber </name>
+		<amount>2pcs </amount>
+		<price>30.0</price>
+	</vegetables>
+	<vegetables>
+		<name> zuckini </name>
+		<amount>1pcs </amount>
+		<price>10.0</price>
+	</vegetables>
+	<vegetables>
+		<name> selleri </name>
+		<amount>1pcs </amount>
+		<price>21.95</price>
+	</vegetables>
+	<vegetables>
+		<name> onion </name>
+		<amount>1kg </amount>
+		<price>9.43</price>
+	</vegetables>
+	<fruits>
+		<name> apple </name>
+		<amount>1kg </amount>
+		<price>17.50</price>
+	</fruits>
+	<fruits>
+		<name> pineapple </name>
+		<amount>1pcs </amount>
+		<price>20.0</price>
+	</fruits>
+	<fruits>
+		<name> orange </name>
+		<amount>1kg </amount>
+		<price>20.0</price>
+	</fruits>
+	<fruits>
+		<name> blueberry </name>
+		<amount>125gr </amount>
+		<price>29.0</price>
+	</fruits>
+	<diryproduct>
+		<name> milk </name>
+		<amount>1pocket </amount>
+		<price>11.95</price>
+	</diryproduct>
+	<diryproduct>
+		<name> yoghurt </name>
+		<amount>1pocket </amount>
+		<price>18.95</price>
+	</diryproduct>
+	<diryproduct>
+		<name> mascarpone </name>
+		<amount>1pocket </amount>
+		<price>24.95</price>
+	</diryproduct>
+	<diryproduct>
+		<name> butter </name>
+		<amount>1pocket </amount>
+		<price>31.95</price>
+	</diryproduct>
+	<other>
+		<name> bread </name>
+		<amount>1pcs </amount>
+		<price>24.50</price>
+	</other>
+	<other>
+		<name> coffe </name>
+		<amount>1pcs </amount>
+		<price>32.00</price>
+	</other>
+	<other>
+		<name> sugar </name>
+		<amount>1pcs </amount>
+		<price>16.95</price>
+	</other>
+	<other>
+		<name> rice </name>
+		<amount>1kg </amount>
+		<price>21.30</price>
+	</other>
+</shopinglist>

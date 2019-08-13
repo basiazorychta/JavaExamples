@@ -144,7 +144,7 @@ public class Conditions {
 		// IfExemple1 ();
 		// IfExemple2 ();
 		// IfExemple3 ();
-		// IfExemple4 ();
+		IfExemple4 ();
 		// StudentResult();
 
 	}

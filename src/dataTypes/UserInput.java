@@ -59,7 +59,7 @@ public class UserInput {
 	public static void main(String[] args) {
 		// Exemple1();
 		// Exemple2 ();
-		Example3();
+		 Example3();
 
 	}
 
